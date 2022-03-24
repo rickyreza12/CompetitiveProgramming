@@ -1,0 +1,23 @@
+{
+  "name": "competitiveprogramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickyreza12/CompetitiveProgramming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickyreza12/CompetitiveProgramming/issues"
+  },
+  "homepage": "https://github.com/rickyreza12/CompetitiveProgramming#readme",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
